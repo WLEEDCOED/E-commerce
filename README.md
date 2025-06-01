@@ -1,7 +1,9 @@
-🛠️ E-Commerce Sales Analysis Project
+ E-Commerce Sales Analysis Project
+
 📊 Project Overview
 This project explores and visualizes e-commerce sales data using Python for data cleaning and Power BI for interactive dashboards.
 It aims to uncover key business insights such as top-performing customers, sales trends, and product performance across time and geography.
+
 ![Screenshot 2025-06-01 070949](https://github.com/user-attachments/assets/c6ba93bd-88cb-4b9b-ad40-6ec340740db6)
 
 
